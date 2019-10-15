@@ -47,3 +47,10 @@ see the following message when you try to start Sia.
 $> /tmp/siad
 -bash: /tmp/siad: cannot execute binary file: Exec format error
 ```
+
+---
+
+<a href="https://sia.tech"><img
+src="https://files.helpdocs.io/YzA4Zq3JuM/other/1571158167508/built-with-sia-color.png"
+width="300"></a>
+
